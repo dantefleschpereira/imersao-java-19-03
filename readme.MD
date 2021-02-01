@@ -1,5 +1,5 @@
 
-# Imersão Java - 12/03/2019
+# Imersão Java
 
 Este repositório contém o conteúdo passado durante as aulas e exercícios propostos.
 
